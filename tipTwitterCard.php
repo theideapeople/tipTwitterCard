@@ -16,13 +16,6 @@
 	function tipTwitterCard()
 	{
 		$htmlStr = '';
-
-		/*
-		twitter:url	Canonical URL of the card content.
-		twitter:title	The title of your content as it should appear in the card.
-		twitter:description	A description of the content in a maximum of 200 characters.
-		twitter:image	A URL to the image representing the content.
-		 */
 		
 		if( is_single() ) {
 
